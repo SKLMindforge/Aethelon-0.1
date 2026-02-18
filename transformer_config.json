@@ -1,0 +1,7 @@
+{
+  "educational_purpose": "TEACHING TRANSFORMER ARCHITECTURE",
+  "d_model": 128,
+  "n_layers": 2,
+  "n_heads": 4,
+  "verification_hash": "EDUCATIONAL_PATTERN_ONLY"
+}
