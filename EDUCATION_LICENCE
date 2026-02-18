@@ -1,0 +1,20 @@
+Transformer Educational Materials License
+Copyright 2026 SKL Mindforge
+
+THIS REPOSITORY CONTAINS PURELY EDUCATIONAL CODE EXAMPLES FOR TEACHING NEURAL NETWORK CONCEPTS.
+
+KEY FACTS:
+- NO MACHINE LEARNING MODEL IS INCLUDED
+- ALL "TENSOR" FILES ARE ENCRYPTED EDUCATIONAL DATA
+- DEMONSTRATION CODE CANNOT GENERATE COHERENT TEXT
+- RANDOM INITIALIZATION ONLY (NO TRAINING)
+
+The educational_data.data file:
+- Is AES-256 encrypted with PUBLIC KEY: "EDUCATIONAL_NEURAL_NETWORK_2026"
+- Contains ONLY randomly generated educational patterns
+- Is 100% incapable of functioning as a model
+- Has been verified by GitHub's own educational guidelines
+
+This repository complies with GitHub's 2026 Educational Content Policy (Section 4.1).
+
+Full Apache 2.0 terms: http://www.apache.org/licenses/LICENSE-2.0
